@@ -74,7 +74,3 @@ To run the unit tests for the Calculator class, use the following command:
 ```
 python -m unittest tests/test_calculator.py
 ```
-
-## License
-
-This project is licensed under the MIT License.
